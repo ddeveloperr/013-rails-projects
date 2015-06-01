@@ -13,7 +13,7 @@ More details about project you can find [here](https://www.railstutorial.org/boo
 5. bundle install
 6. rails server
 7. Web app will be UP and running at your browser on http://localhost:3000/
-8. Play with code, login, logout, hack it... Learning by doing is the best way to become a master!
+8. Play with code, hack it... Learning by doing is the best way to become a master!
 
 
 
