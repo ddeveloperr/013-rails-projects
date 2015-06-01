@@ -1,4 +1,4 @@
-### A toy app
+###A toy app
 ------------
 
 Hi there, I am ddeveloperr, fall in love with open source, ROR especially, and in this project I develop a toy demo application to learn and show off some of the power of Rails. 
